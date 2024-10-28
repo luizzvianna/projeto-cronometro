@@ -5,3 +5,6 @@ A parte de estruturar a interface é bastante tranquila; criei um display para m
 No entanto, a implementação do JavaScript tem sido um verdadeiro desafio. É preciso dominar conceitos como manipulação do DOM e funções de temporização, como 
 setInterval() e clearInterval(). Gerenciar o estado do cronômetro, controlando o tempo decorrido e respondendo aos cliques dos botões,
 exigiu mais lógica do que eu esperava. Apesar das dificuldades, cada passo tem sido uma oportunidade de aprendizado
+<br>
+<br>
+<img src="https://github.com/luizzvianna/projeto-cronometro/blob/master/assents/projetocronometro.jpg?raw=true">
